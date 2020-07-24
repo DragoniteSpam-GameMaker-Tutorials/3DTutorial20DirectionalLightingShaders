@@ -1,6 +1,6 @@
-# 3D in Game Maker Studio 2 - Fog Shaders
+# 3D in Game Maker Studio 2 - Directional Lighting Shaders
 
-Have you ever wanted something like Unity's Time class in GameMaker? Probably not, but if you have, here's a solution!
+Last time I talked about using fog to add some depth to a 3D scene. Now it's time to start working on proper lighting!
 
 Video tutorial:
 
